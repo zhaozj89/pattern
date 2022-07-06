@@ -1,0 +1,9 @@
+tox
+pytest
+coverage
+flake8
+isort
+mypy
+twine
+wheel
+pip-tools
